@@ -26,9 +26,12 @@ Os arquivos estão organizados por exercício, conforme o andamento das atividad
 ├── leituraArquivo/
 │   ├── ARQTXT01.txt
 │   ├── ARQTXT02.txt
+│   ├── ARQTXTO04.txt
 │   ├── ARQTXT03.txt
-│   ├── ARQTXTO01.txt
+│   ├── FRASE.txt
+│   ├── FRASE1.txt
 │   ├── exerc1.cpp
+│   ├── exerc10.cpp
 │   ├── exerc2.cpp
 │   ├── exerc3.cpp
 │   ├── exerc4.cpp
@@ -37,9 +40,6 @@ Os arquivos estão organizados por exercício, conforme o andamento das atividad
 │   ├── exerc7.cpp
 │   ├── exerc8.cpp
 │   ├── exerc9.cpp
-│   ├── exerc10.cpp
-│   ├── FRASE.txt
-│   ├── FRASE1.txt
 │   └── saida.txt
 ├── README.md
 ├── duasFuncaoParaMostrarVetCubo.cpp
